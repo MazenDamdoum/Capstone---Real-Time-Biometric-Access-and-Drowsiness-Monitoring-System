@@ -2,7 +2,6 @@
 """
 Real-Time Biometric Access and Drowsiness Monitoring System
 
-Authors: Jawad Aldehneh, Mazen Damdoum, Samer Seifeddine
 University of Windsor - ELEC-4000 Capstone Project 2025
 
 Performance Metrics:
